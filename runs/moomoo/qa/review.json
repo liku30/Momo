@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22123,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22093,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22075,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22179,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22056,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 164
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22081,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22046,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22321,
+          "bbox": [
+            5,
+            15,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 274
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22442,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23484,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21639,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22113,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23288,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 326
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23676,
+          "bbox": [
+            7,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 277
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23676,
+          "bbox": [
+            7,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 277
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23288,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 326
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22113,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21639,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23484,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22442,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22321,
+          "bbox": [
+            5,
+            15,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 274
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22046,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21927,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22589,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22583,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22050,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 80
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27111,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22584,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 99
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25380,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23260,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26836,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22544,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22233,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21844,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22556,
+          "bbox": [
+            5,
+            18,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16408,
+          "bbox": [
+            5,
+            44,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17370,
+          "bbox": [
+            5,
+            41,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26204,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23996,
+          "bbox": [
+            5,
+            9,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22144,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26285,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21994,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21869,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21831,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21939,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22526,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25062,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22678,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21608,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 99
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22609,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22461,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22087,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25853,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21612,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20968,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22430,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21594,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        }
+      ]
+    }
+  ]
+}

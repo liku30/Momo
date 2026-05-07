@@ -1,0 +1,244 @@
+{
+  "pet_id": "moomoo",
+  "display_name": "\u54de\u54de",
+  "description": "\u4e00\u53ea\u9ed1\u767d\u82b1\u7eb9\u3001\u6d53\u7709\u5927\u773c\u3001\u8868\u60c5\u5014\u5f3a\u7684 Q \u7248\u5976\u725b Codex \u6570\u5b57\u5ba0\u7269\u3002.",
+  "created_at": "2026-05-07T06:27:45.998269+00:00",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "neutral breathing/blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward locomotion loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward locomotion loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting gesture with raised wave and return"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "anticipation, lift, peak, descent, settle"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "sad, failed, or deflated reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "patient waiting loop with small motion"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active working/in-progress loop"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "focused inspecting or review loop"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references\\layout-guides\\idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references\\layout-guides\\running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references\\layout-guides\\running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references\\layout-guides\\waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references\\layout-guides\\jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references\\layout-guides\\failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references\\layout-guides\\waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references\\layout-guides\\running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references\\layout-guides\\review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-01.jpg",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "D:\\\u5fae\u4fe1\\xwechat_files\\wxid_foprjin538th22_8545\\temp\\RWTemp\\2026-05\\baf0372fd001fff48388717ed41eb250.jpg",
+      "copied_path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-01.jpg"
+    },
+    {
+      "path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-02.jpg",
+      "width": 1080,
+      "height": 1084,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "D:\\\u5fae\u4fe1\\xwechat_files\\wxid_foprjin538th22_8545\\temp\\RWTemp\\2026-05\\55777586eabd219eb2a90e616efdbcf1\\f214959bcea099de16703fd3593d3bb9.jpg",
+      "copied_path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-02.jpg"
+    },
+    {
+      "path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-03.jpg",
+      "width": 504,
+      "height": 498,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "D:\\\u5fae\u4fe1\\xwechat_files\\wxid_foprjin538th22_8545\\temp\\RWTemp\\2026-05\\55777586eabd219eb2a90e616efdbcf1\\5a0fb13a55fb974e07a9fbe7d6afc520.jpg",
+      "copied_path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-03.jpg"
+    },
+    {
+      "path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-04.jpg",
+      "width": 1080,
+      "height": 1065,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "D:\\\u5fae\u4fe1\\xwechat_files\\wxid_foprjin538th22_8545\\temp\\RWTemp\\2026-05\\55777586eabd219eb2a90e616efdbcf1\\d763d7bcd71e0699a4d09e7152b14a5f.jpg",
+      "copied_path": "C:\\Users\\somea\\Documents\\Codex\\2026-05-06\\skill-installer-c-users-somea-codex\\hatch-runs\\moomoo\\references\\reference-04.jpg"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "name": "magenta",
+    "selection": "auto",
+    "score": 212.47
+  },
+  "pet_notes": "A compact chibi black-and-white cow digital pet based on the reference images: round oversized head and soft chunky body, black cow patches around ears and head, pale pink muzzle and cheeks, tiny nostrils, short limbs with dark hooves, stern expressive eyes with thick dark eyebrows and a small stubborn mouth. Preserve the funny defiant personality, but simplify into a cute Codex pet; no Chinese text, no scenery, no microphone, no drink cup, no flower pot, no readable labels.",
+  "style_notes": "Codex digital pet style: small pixel-art-adjacent mascot, compact chibi proportions, chunky readable silhouette, thick dark 1-2 px outline, stepped pixel edges, limited black white pink palette, flat cel shading, simple expressive face, tiny limbs, transparent final atlas.",
+  "house_style": "Codex digital pet sprite style: pixel-art-adjacent low-resolution mascot sprite, compact chibi proportions, chunky whole-body silhouette, thick dark 1-2 px outline, visible stepped/pixel edges, limited palette, flat cel shading with at most one small highlight and one shadow step, simple readable face, tiny limbs, and no detail that disappears at 192x208. Avoid polished illustration, painterly rendering, anime key art, 3D render, vector app-icon polish, glossy lighting, soft gradients, realistic fur or material texture, anti-aliased high-detail edges, and complex tiny accessories.",
+  "primary_generation_skill": "$imagegen",
+  "canonical_identity_reference": {
+    "path": "references\\canonical-base.png",
+    "source_job": "base",
+    "sha256": "1546d6313632daaa571959e30ac505d209cd8aef11f3832471b5f907f6751020",
+    "metadata": {
+      "width": 1178,
+      "height": 1335,
+      "mode": "RGB",
+      "format": "PNG"
+    }
+  }
+}
